@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karan Shelar</h1>
-<h3 align="center">🚀 A passionate Data Science & AI Enthusiast from India</h3>
-
+<p align="center">
+  <img src="Hacking.gif" width="50" style="vertical-align: middle;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&lines=Hi+👋,+I'm+Karan+Shelar;+Data+Science+%26+AI+Enthusiast;+I+Love+Coding" alt="Typing SVG" />
+  </a>
+</p>
 <!-- Add second GIF here -->
 <p align="center">
   <img src="https://github.com/Edge-Explorer/Edge-Explorer/blob/main/ezgif.com-effects.webp" alt="welcome gif" width="400"/>
