@@ -11,11 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=edge-explorer&label=Profile%20views&color=0e75b6&style=flat" alt="edge-explorer" /> 
 </p>
 
-<!-- Add a personal GIF (place your GIF in your repo and replace 'mygif.gif') -->
-<p align="center">
-  <img src="mygif.gif" alt="Coding gif" width="400"/>
-</p>
-
 ---
 
 ### 🔥 About Me
