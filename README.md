@@ -57,6 +57,7 @@
   <img src="Huggingface.png" width="40" height="100"/>
   <img src="Ollama-logo.png" width="70" height="100"/>
   <img src="Streamlitlogo.png" width="70" height="100"/>
+  <img src="Jupyter.png" width="70" height="100"/>
 </p>
 
 ---
