@@ -55,6 +55,7 @@
   <img src="Numpy.png" width="50" height="100"/>
   <img src="Langchain.png" width="50" height="100"/>
   <img src="Huggingface.png" width="40" height="100"/>
+  <img src="Ollama-logo.png" width="70" height="100"/>
 </p>
 
 ---
