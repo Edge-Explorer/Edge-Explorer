@@ -51,9 +51,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="matplotlib-logo (1).png" width="40" height="40"/>
-  <img src="Numpy.png" width="40" height="40"/>
-  <img src="Langchain.png" width="40" height="40"/>
+  <img src="matplotlib-logo (1).png" width="50" height="100"/>
+  <img src="Numpy.png" width="50" height="100"/>
+  <img src="Langchain.png" width="50" height="100"/>
+  <img src="Huggingface.png" width="40" height="100"/>
 </p>
 
 ---
