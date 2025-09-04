@@ -58,7 +58,7 @@
   <img src="Ollama-logo.png" width="70" height="100"/>
   <img src="Streamlitlogo.png" width="70" height="100"/>
   <img src="Jupyter.png" width="70" height="100"/>
-  <img src="vscode-logo.png" width="70" height="100"/>
+  <img src="vscode-logo.png" width="40" height="70"/>
 </p>
 
 ---
