@@ -53,7 +53,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="matplotlib-logo (1).png" width="40" height="40"/>
   <img src="Numpy.png" width="40" height="40"/>
-
+  <img src="Langchain.png" width="40" height="40"/>
 </p>
 
 ---
