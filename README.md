@@ -38,7 +38,7 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://twitter.com/karansh65348336"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/karan-shelar-77938134"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="http://linkedin.com/in/karan-shelar-779381343"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kaggle.com/KaranShelar6"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://www.leetcode.com/Edge-Explorer"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://instagram.com/karan.shelar.2004"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
