@@ -52,6 +52,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="matplotlib-logo (1).png" width="40" height="40"/>
+  <img src="Numpy.png" width="40" height="40"/>
 
 </p>
 
