@@ -32,7 +32,7 @@
 
 ### 💻 I Love Coding
 <p align="center">
-  <img src="asset-ezgif.com-crop.gif" alt="I love coding gif" width="400"/>
+  <img src="cat_typing.gif" alt="I love coding gif" width="400"/>
 </p>
 
 ### 🌐 Connect with me
