@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karan Shelar</h1>
+<h3 align="center">🚀 A passionate Data Science & AI Enthusiast from India</h3>
 
-<!--
-**Edge-Explorer/Edge-Explorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=edge-explorer&label=Profile%20views&color=0e75b6&style=flat" alt="edge-explorer" /> 
+</p>
 
-Here are some ideas to get you started:
+<!-- Add a personal GIF (place your GIF in your repo and replace 'mygif.gif') -->
+<p align="center">
+  <img src="mygif.gif" alt="Coding gif" width="400"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 About Me
+- 🔭 I’m currently working on **Lumos (Transformer)**
+- 🌱 I’m learning **LangChain & LangGraph**
+- 👯 I’m looking to collaborate on **Lumos (Dataset)**
+- 🤝 I’m looking for help with **Lumos (Dataset)**
+- 💬 Ask me about **TensorFlow, PyTorch**
+- 📫 Reach me at **karanshelar8775@gmail.com**
+- 📄 Know about my experiences → [My Resume](https://drive.google.com/file/d/13cGAIaOflBjiEKbgyQ_-56oJkbKoLytW/view?usp=drivesdk)  
+- ⚡ Fun fact: **I can visualize complex things and make them simple.**
+
+---
+
+### 💻 I Love Coding
+<p align="center">
+  <img src="asset-ezgif.com-crop.gif" alt="I love coding gif" width="400"/>
+</p>
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/karansh65348336"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/karan-shelar-77938134"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kaggle.com/KaranShelar6"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.leetcode.com/Edge-Explorer"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://instagram.com/karan.shelar.2004"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚙️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edge-explorer&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edge-explorer&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edge-explorer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
+</p>
