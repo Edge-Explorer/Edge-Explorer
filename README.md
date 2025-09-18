@@ -23,7 +23,7 @@
 - 🤝 I’m looking for help with **Lumos (Dataset)**
 - 💬 Ask me about **TensorFlow, PyTorch**
 - 📫 Reach me at **karanshelar8775@gmail.com**
-- 📄 Know about my experiences → [My Resume](https://drive.google.com/file/d/13cGAIaOflBjiEKbgyQ_-56oJkbKoLytW/view?usp=drivesdk](https://drive.google.com/file/d/157ZQgyR6PMczhXIr8XJXM5iEYstU-W75/view?usp=drivesdk))  
+- 📄 Know about my experiences → [My Resume](https://drive.google.com/file/d/157ZQgyR6PMczhXIr8XJXM5iEYstU-W75/view?usp=drivesdk)
 - ⚡ Fun fact: **I can visualize complex things and make them simple.**
 
 ---
