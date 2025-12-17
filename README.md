@@ -99,6 +99,6 @@ Feel free to reach out! I'm always excited to work with passionate developers an
   
 ### 💡 "The best way to predict the future is to create it."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Edge-Explorer&color=blueviolet&style=for-the-badge)
 
 </div>
