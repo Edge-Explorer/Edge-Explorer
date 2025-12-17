@@ -1,77 +1,104 @@
+<div align="center">
+  
+# 👋 Hi there, I'm Karan Shelar
+
+### 🚀 Machine Learning Engineer | AI Enthusiast | Open Source Contributor
+
 <p align="center">
-  <img src="Hacking.gif" width="50" style="vertical-align: middle;"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&lines=Hi+👋,+I'm+Karan+Shelar;+Data+Science+%26+AI+Enthusiast;+I+Love+Coding" alt="Typing SVG" />
-  </a>
-</p>
-<!-- Add second GIF here -->
-<p align="center">
-  <img src="https://github.com/Edge-Explorer/Edge-Explorer/blob/main/ezgif.com-effects.webp" alt="welcome gif" width="400"/>
+  <em>"I can visualize complex things and make them simple."</em>
 </p>
 
-<!-- Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=edge-explorer&label=Profile%20views&color=0e75b6&style=flat" alt="edge-explorer" /> 
-</p>
+[![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Lr70BEsOwwz5S_CHRfYQFTbaqJ8xe3ck/view?usp=sharing)
+
+</div>
 
 ---
 
-### 🔥 About Me
-- 🔭 I’m currently working on **Lumos (Transformer)**
-- 🌱 I’m learning **LangChain & LangGraph**
-- 👯 I’m looking to collaborate on **Lumos (Dataset)**
-- 🤝 I’m looking for help with **Lumos (Dataset)**
-- 💬 Ask me about **TensorFlow, PyTorch**
-- 📫 Reach me at **karanshelar8775@gmail.com**
-- 📄 Know about my experiences → [My Resume](https://drive.google.com/file/d/1Lr70BEsOwwz5S_CHRfYQFTbaqJ8xe3ck/view?usp=sharing)
-- ⚡ Fun fact: **I can visualize complex things and make them simple.**
+## 🎯 Current Focus
+
+```yaml
+current_project: "Lumos (Transformer Architecture)"
+learning: ["LangChain", "LangGraph", "Advanced RAG Systems"]
+collaboration: "Open to contributions on Lumos Dataset"
+seeking_help: "Dataset curation and validation for Lumos"
+expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
+```
 
 ---
 
-### 💻 I Love Coding
-<p align="center">
-  <img src="cat_typing.gif" alt="I love coding gif" width="400"/>
-</p>
+## 🛠️ Tech Stack
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://twitter.com/karansh65348336"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="http://linkedin.com/in/karan-shelar-779381343"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kaggle.com/KaranShelar6"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://www.leetcode.com/Edge-Explorer"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://instagram.com/karan.shelar.2004"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### **ML/DL Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### ⚙️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="matplotlib-logo (1).png" width="50" height="100"/>
-  <img src="Numpy.png" width="50" height="100"/>
-  <img src="Langchain.png" width="50" height="100"/>
-  <img src="Huggingface.png" width="40" height="100"/>
-  <img src="Ollama-logo.png" width="70" height="100"/>
-  <img src="Streamlitlogo.png" width="70" height="100"/>
-  <img src="Jupyter.png" width="70" height="100"/>
-  <img src="vscode-logo.png" width="40" height="70"/>
-</p>
+### **LLM & AI Tools**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Data & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edge-explorer&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edge-explorer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking collaborators for the **Lumos Dataset** project. If you're interested in:
+- Dataset curation and validation
+- Transformer architectures
+- LLM fine-tuning and evaluation
+
+Feel free to reach out! I'm always excited to work with passionate developers and researchers.
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "The best way to predict the future is to create it."
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
