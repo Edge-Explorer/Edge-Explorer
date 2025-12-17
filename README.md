@@ -87,16 +87,6 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm actively seeking collaborators for the **Lumos Dataset** project. If you're interested in:
