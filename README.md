@@ -66,7 +66,7 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=radical&hide_border=true)
 
 </div>
 
@@ -87,9 +87,9 @@ Feel free to reach out! I'm always excited to work with passionate developers an
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-shelar-779381343)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/karansh65348336)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edge-Explorer)
 
 </div>
 
