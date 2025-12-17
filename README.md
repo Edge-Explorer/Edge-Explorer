@@ -63,6 +63,16 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Edge-Explorer&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -72,6 +82,16 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
