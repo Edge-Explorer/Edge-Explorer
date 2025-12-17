@@ -63,11 +63,13 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP"]
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Edge-Explorer&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Edge-Explorer&theme=radical&hide_border=true)
 
 </div>
 
