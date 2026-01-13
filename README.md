@@ -9,7 +9,7 @@
 </p>
 
 [![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1eBw1NwzyyIEg82OOP3rSfzk1ijooEvGW/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/15VW_oM4fXQAF0keoeVNCtwpreFZq5wW1/view?usp=drivesdk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-shelar-779381343)
 
 </div>
