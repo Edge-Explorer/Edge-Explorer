@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Karan Shelar
 
-### 🚀 Machine Learning Engineer | AI Enthusiast | Mobile Developer
+### 🚀 Gen AI developer | AI Enthusiast | Mobile Developer
 
 *"I can visualize complex things and make them simple."*
 
