@@ -1,56 +1,46 @@
-<div align="center">
-  
 # 👋 Hi there, I'm Karan Shelar
 
 ### 🚀 Machine Learning Engineer | AI Enthusiast | Mobile Developer
 
-<p align="center">
-  <em>"I can visualize complex things and make them simple."</em>
-</p>
+*"I can visualize complex things and make them simple."*
 
 [![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/19fXnqbsRg11P3DHJR4t9Ed6vyT9R540E/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-shelar-779381343)
-
-</div>
 
 ---
 
 ## 🎯 Current Focus
 
 ```yaml
-current_project: "Lumos (Transformer Architecture)"
-learning: ["LangChain", "LangGraph", "Advanced RAG Systems"]
-collaboration: "Open to contributions on Lumos Dataset"
-seeking_help: "Dataset curation and validation for Lumos"
-expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP", "Mobile Dev"]
+current_project: "NEEL - AI Life Coach & Productivity App"
+learning: ["LangChain", "Multi-Agent Systems", "Advanced RAG", "Cloud Deployment"]
+tech_stack: ["React Native", "Expo", "FastAPI", "PostgreSQL", "Render"]
+expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP", "Mobile Development"]
+focus_areas: ["AI Agents", "Full-Stack Development", "Production Deployment"]
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+### **Backend & Cloud**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **ML/DL Frameworks**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -58,15 +48,11 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP", "Mobile Dev"]
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 ### **LLM & AI Tools**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### **Data Science & Visualization**
@@ -78,114 +64,108 @@ expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP", "Mobile Dev"]
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/Edge-Explorer">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
 ## 🎓 Learning Journey
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 Currently Mastering
+- 🤖 **Multi-Agent AI Systems** - Building intelligent agent orchestration
+- 🔗 **LangChain & LangGraph** - Advanced RAG patterns and AI workflows
+- ☁️ **Cloud Deployment** - Production-grade FastAPI on Render
+- 📱 **React Native + Expo** - Cross-platform mobile development
+- 🗄️ **Database Management** - PostgreSQL with Alembic migrations
 
-### 🧠 Currently Exploring
-- 🔬 **Transformer Architectures** - Building Lumos from scratch
-- 🤖 **LangChain & LangGraph** - Learning advanced RAG patterns
-- 📚 **Deep Learning** - TensorFlow & PyTorch implementations
-- 💬 **NLP Techniques** - Text processing and language models
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Building With
-- 📱 **React Native + Expo** - Cross-platform mobile apps
-- ⚛️ **React** - Interactive web interfaces
-- 🐍 **Python** - ML models and data analysis
-- 🔧 **Git & Docker** - Version control and containerization
-
-</td>
-</tr>
-</table>
+### 💻 Actively Building With
+- **Backend**: FastAPI + PostgreSQL + SQLAlchemy
+- **AI/ML**: LangChain + Google Gemini + Custom Agents
+- **Mobile**: React Native + Expo SDK + EAS Build
+- **DevOps**: Render + Docker + Git workflows
+- **Data**: Pandas + NumPy + Jupyter Notebooks
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
 [![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=react-dark&hide_border=true&area=true)](https://github.com/Edge-Explorer)
-
-</div>
 
 ---
 
 ## 🎯 Featured Projects
 
-<div align="center">
+### 🦾 NEEL - AI Life Coach & Productivity App
+**Multi-Agent AI System for Personal Growth**
 
-<table>
-<tr>
-<td width="50%">
+An intelligent productivity ecosystem that acts as your AI life coach. Built with a sophisticated multi-agent architecture, NEEL monitors work patterns, provides strategic insights, and helps optimize your deep-work sessions through a premium glassmorphic interface.
 
-### 🔦 Lumos
-**Learning Transformer Architecture**
+**🔥 Key Features:**
+- Multi-Agent AI (Supervisor, Reasoning, Reflection agents)
+- Permanent conversational memory with cloud persistence
+- Magic auto-logging with AI-powered activity parsing
+- Real-time NEEL Pulse dashboard
+- Premium dark mode with glassmorphic UI
 
-Building a transformer-based model from scratch to understand attention mechanisms and NLP fundamentals. Actively seeking collaborators for dataset work!
+**🛠️ Tech Stack:**
+- **Backend**: FastAPI + PostgreSQL + LangChain + Google Gemini
+- **Frontend**: React Native + Expo SDK 54 + EAS Build
+- **Deployment**: Render (Live Production)
+- **Database**: PostgreSQL with Alembic migrations
 
-**Tech Stack**: PyTorch • Python • Transformers
+**📲 [Download APK](https://drive.google.com/file/d/19xgBoib7a0IM-4vt2OWgHXDF9khs-5vn/view?usp=drive_link)** | **🌐 [Live API](https://neel-8ybz.onrender.com/docs)** | **💻 [View Repository](https://github.com/Edge-Explorer/NEEL)**
 
-</td>
-<td width="50%">
+---
 
 ### 📱 Mobile Apps with Expo
-**React Native Development**
+**Cross-Platform Development Excellence**
 
-Creating cross-platform mobile applications using React Native and Expo Go. Focusing on clean UI/UX and practical functionality.
+Building production-ready mobile applications using React Native and Expo. Focused on creating intuitive user experiences with modern UI/UX principles, including glassmorphism, dark mode, and responsive design patterns.
 
-**Tech Stack**: React Native • Expo • JavaScript
+**Tech Stack**: React Native • Expo • TypeScript • EAS Build
 
-</td>
-</tr>
-</table>
+---
 
-</div>
+### 🧠 Machine Learning Projects
+**Deep Learning & NLP Applications**
+
+Developing intelligent systems using TensorFlow and PyTorch. Working on NLP tasks, computer vision, and data analysis projects with practical applications.
+
+**Tech Stack**: Python • TensorFlow • PyTorch • Scikit-learn • Jupyter
 
 ---
 
 ## 💼 What I'm Working On
 
-- 🤖 Building **Lumos** - A custom Transformer architecture for NLP tasks
-- 📱 Creating **mobile apps** with React Native & Expo
-- 🧠 Learning **LangChain & LangGraph** for AI applications
-- 📊 Exploring **data visualization** with Plotly and Matplotlib
-- 🔬 Experimenting with **LLMs** and prompt engineering
+- 🤖 Building **Multi-Agent AI Systems** with LangChain and LangGraph
+- ☁️ Deploying **production-grade APIs** on Render with PostgreSQL
+- 📱 Creating **premium mobile experiences** with React Native & Expo
+- 🧠 Implementing **RAG systems** for intelligent information retrieval
+- 🔬 Experimenting with **LLMs** and prompt engineering techniques
+- 📊 Building **data visualization** tools with Plotly and Matplotlib
 - 🚀 Contributing to **open-source AI projects**
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm actively seeking collaborators for the **Lumos Dataset** project. If you're interested in:
+I'm actively seeking collaborators interested in:
 
-- 🎯 Dataset curation and validation
-- 🔬 Transformer architectures
-- 🤖 LLM fine-tuning and evaluation
-- 📱 Mobile AI applications
+- 🤖 **AI Agent Development** - Multi-agent systems and orchestration
+- 📱 **Mobile AI Applications** - Bringing AI to mobile platforms
+- ☁️ **Cloud Architecture** - Scalable deployment strategies
+- 🔬 **LLM Fine-tuning** - Model optimization and evaluation
+- 📊 **Data Science** - Analysis and visualization projects
 
 Feel free to reach out! I'm always excited to work with passionate developers and researchers.
 
@@ -204,12 +184,12 @@ Feel free to reach out! I'm always excited to work with passionate developers an
 
 ---
 
-<div align="center">
-  
 ### 💡 "The best way to predict the future is to create it."
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edge-Explorer&color=blueviolet&style=for-the-badge)
 
-⭐ **Star my repositories if you find them useful!** ⭐
+**⭐ Star my repositories if you find them useful! ⭐**
 
 </div>
