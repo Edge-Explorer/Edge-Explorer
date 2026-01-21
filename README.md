@@ -5,7 +5,7 @@
 *"I can visualize complex things and make them simple."*
 
 [![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/19fXnqbsRg11P3DHJR4t9Ed6vyT9R540E/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1dFbXclJu84IDlruljig6I-vCqj9Pe6VC/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-shelar-779381343)
 
 ---
