@@ -10,18 +10,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-current_project: "NEEL - AI Life Coach & Productivity App"
-learning: ["LangChain", "Multi-Agent Systems", "Advanced RAG", "Cloud Deployment"]
-tech_stack: ["React Native", "Expo", "FastAPI", "PostgreSQL", "Render"]
-expertise: ["TensorFlow", "PyTorch", "Deep Learning", "NLP", "Mobile Development"]
-focus_areas: ["AI Agents", "Full-Stack Development", "Production Deployment"]
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Core**
