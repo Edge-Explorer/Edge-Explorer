@@ -14,28 +14,27 @@
 
 <div align="center">
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Edge-Explorer&color=blueviolet&style=flat-square&abbreviated=true)
-
-### 🏆 Contribution Stats
-
-![GitHub Contributions](https://img.shields.io/badge/GitHub%20User-Edge--Explorer-181717?style=for-the-badge&logo=github)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Edge-Explorer&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 Recent Activity
+## 📊 GitHub Statistics
 
-<details open>
-<summary><b>📈 GitHub Statistics</b></summary>
+<div align="center">
 
-- 🔗 **GitHub Profile**: [@Edge-Explorer](https://github.com/Edge-Explorer)
-- 💻 **Primary Languages**: Python, JavaScript, TypeScript
-- 🎯 **Focus Areas**: AI Development, Mobile Apps, Backend Systems
-- 📱 **Latest Project**: NEEL - Multi-Agent AI Life Coach
-- 🚀 **Most Used Tools**: FastAPI, React Native, LangChain
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=dark-dimmed&hide_border=true)](https://github.com/Edge-Explorer)
 
 ---
 
