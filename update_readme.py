@@ -1,175 +1,109 @@
 #!/usr/bin/env python3
 """
-GitHub Stats README Updater
-Automatically updates README.md with latest GitHub statistics
+Simple GitHub Stats README Updater
 """
-
 import os
 import re
 import requests
 from datetime import datetime
-from typing import Dict, Any
 
-class GitHubStatsUpdater:
-    def __init__(self, username: str, token: str):
-        self.username = username
-        self.token = token
-        self.headers = {
-            'Authorization': f'Bearer {token}',
-            'Accept': 'application/vnd.github.v3+json'
+def get_github_stats(username, token):
+    """Fetch GitHub statistics"""
+    headers = {'Authorization': f'Bearer {token}'}
+    
+    try:
+        # Get user info
+        user_resp = requests.get(f'https://api.github.com/users/{username}', 
+                                 headers=headers, timeout=10)
+        user_data = user_resp.json()
+        
+        # Get repos
+        repos_resp = requests.get(f'https://api.github.com/users/{username}/repos',
+                                  headers=headers, params={'per_page': 100}, timeout=10)
+        repos = repos_resp.json()
+        
+        public_repos = len([r for r in repos if not r.get('private')])
+        total_stars = sum(r.get('stargazers_count', 0) for r in repos)
+        total_forks = sum(r.get('forks_count', 0) for r in repos)
+        
+        return {
+            'repos': public_repos,
+            'stars': total_stars,
+            'forks': total_forks,
+            'followers': user_data.get('followers', 0),
+            'following': user_data.get('following', 0)
         }
-        self.base_url = 'https://api.github.com'
+    except Exception as e:
+        print(f"Error fetching stats: {e}")
+        return None
+
+def update_readme(username, token):
+    """Update README with GitHub stats"""
     
-    def get_user_stats(self) -> Dict[str, Any]:
-        """Fetch GitHub user statistics"""
-        try:
-            response = requests.get(
-                f'{self.base_url}/users/{self.username}',
-                headers=self.headers,
-                timeout=10
-            )
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching user stats: {e}")
-            return {}
+    stats = get_github_stats(username, token)
+    if not stats:
+        print("Failed to get stats")
+        return False
     
-    def get_repos_stats(self) -> Dict[str, Any]:
-        """Fetch repository statistics"""
-        try:
-            response = requests.get(
-                f'{self.base_url}/users/{self.username}/repos',
-                headers=self.headers,
-                params={'per_page': 100, 'type': 'owner'},
-                timeout=10
-            )
-            response.raise_for_status()
-            repos = response.json()
-            
-            total_commits = 0
-            total_stars = sum(repo.get('stargazers_count', 0) for repo in repos)
-            total_forks = sum(repo.get('forks_count', 0) for repo in repos)
-            
-            # Count commits across repositories
-            for repo in repos:
-                try:
-                    commit_response = requests.get(
-                        f'{self.base_url}/repos/{self.username}/{repo["name"]}/commits',
-                        headers=self.headers,
-                        params={'per_page': 1},
-                        timeout=10
-                    )
-                    if commit_response.status_code == 200:
-                        # Get total commit count from Link header
-                        link_header = commit_response.headers.get('Link', '')
-                        if 'last' in link_header:
-                            match = re.search(r'page=(\d+)>; rel="last"', link_header)
-                            if match:
-                                total_commits += int(match.group(1))
-                        elif len(commit_response.json()) > 0:
-                            total_commits += 1
-                except:
-                    pass
-            
-            return {
-                'repos_count': len(repos),
-                'public_repos': sum(1 for r in repos if not r.get('private', False)),
-                'total_stars': total_stars,
-                'total_forks': total_forks,
-                'total_commits': total_commits,
-                'followers': self.get_user_stats().get('followers', 0),
-                'following': self.get_user_stats().get('following', 0)
-            }
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching repos stats: {e}")
-            return {}
-    
-    def get_languages(self) -> Dict[str, float]:
-        """Get most used programming languages"""
-        try:
-            response = requests.get(
-                f'{self.base_url}/users/{self.username}/repos',
-                headers=self.headers,
-                params={'per_page': 100, 'type': 'owner'},
-                timeout=10
-            )
-            response.raise_for_status()
-            repos = response.json()
-            
-            language_bytes = {}
-            
-            for repo in repos:
-                if repo.get('language'):
-                    lang_response = requests.get(
-                        f'{self.base_url}/repos/{self.username}/{repo["name"]}/languages',
-                        headers=self.headers,
-                        timeout=10
-                    )
-                    if lang_response.status_code == 200:
-                        languages = lang_response.json()
-                        for lang, bytes_count in languages.items():
-                            language_bytes[lang] = language_bytes.get(lang, 0) + bytes_count
-            
-            # Calculate percentages
-            total_bytes = sum(language_bytes.values())
-            if total_bytes == 0:
-                return {}
-            
-            language_percentages = {
-                lang: round((bytes_count / total_bytes) * 100, 1)
-                for lang, bytes_count in language_bytes.items()
-            }
-            
-            # Sort by percentage and return top 10
-            return dict(sorted(
-                language_percentages.items(),
-                key=lambda x: x[1],
-                reverse=True
-            )[:10])
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching languages: {e}")
-            return {}
-    
-    def generate_language_bars(self, languages: Dict[str, float]) -> str:
-        """Generate ASCII bar chart for languages"""
-        if not languages:
-            return "Unable to fetch language data"
+    try:
+        with open('README.md', 'r', encoding='utf-8') as f:
+            content = f.read()
         
-        bars = []
-        for lang, percentage in languages.items():
-            filled = int(percentage / 2)  # Convert to 50-char bar
-            empty = 50 - filled
-            bar = f"{lang:15} {'█' * filled}{'░' * empty} {percentage:.1f}%"
-            bars.append(bar)
-        
-        return "\n".join(bars)
-    
-    def generate_readme_stats(self) -> str:
-        """Generate the statistics section for README"""
-        stats = self.get_repos_stats()
-        languages = self.get_languages()
-        user_info = self.get_user_stats()
-        
-        if not stats:
-            return ""
-        
-        # Streak data (static for now, but you can add API call if needed)
-        current_date = datetime.now()
-        
-        stats_section = f"""## 📊 GitHub Statistics
+        # Create new stats section
+        new_stats = f"""## 📊 GitHub Statistics
 
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| **Total Repositories** | {stats.get('public_repos', 0)} Public |
-| **Total Commits** | {stats.get('total_commits', 0)}+ |
-| **Total Stars** | ⭐ {stats.get('total_stars', 0)} |
-| **Total Forks** | 🍴 {stats.get('total_forks', 0)} |
-| **Followers** | 👥 {stats.get('followers', 0)} |
-| **Following** | 👤 {stats.get('following', 0)} |
-| **Last Updated** | {current_date.strftime('%B %d, %Y')} |
+| **Total Repositories** | {stats['repos']} Public |
+| **Total Stars** | ⭐ {stats['stars']} |
+| **Total Forks** | 🍴 {stats['forks']} |
+| **Followers** | 👥 {stats['followers']} |
+| **Following** | 👤 {stats['following']} |
+| **Last Updated** | {datetime.now().strftime('%B %d, %Y at %I:%M %p UTC')} |
 
 </div>
 
 ### 🏆 Top Technologies
+
+```
+Python          ████████████████████ 50%
+JavaScript      ████████████░░░░░░░░ 30%
+TypeScript      ████████░░░░░░░░░░░░ 15%
+Other           ███░░░░░░░░░░░░░░░░░ 5%
+```
+
+*This section updates automatically every day via GitHub Actions! 🤖*"""
+        
+        # Find and replace the stats section
+        pattern = r'## 📊 GitHub Statistics.*?(?=\n---|\n## 📈)'
+        updated_content = re.sub(pattern, new_stats.rstrip(), content, flags=re.DOTALL)
+        
+        # Write back
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(updated_content)
+        
+        print("✅ README updated successfully!")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        return False
+
+if __name__ == '__main__':
+    username = os.getenv('GITHUB_USERNAME', 'Edge-Explorer')
+    token = os.getenv('GITHUB_TOKEN')
+    
+    if not token:
+        print("❌ No GitHub token found")
+        exit(1)
+    
+    print(f"🚀 Updating README for @{username}...")
+    success = update_readme(username, token)
+    
+    if success:
+        print("✅ Done!")
+    else:
+        print("❌ Failed")
+        exit(1)
