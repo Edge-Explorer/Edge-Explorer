@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=Edge-Explorer&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Edge-Explorer&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=dark-dimmed&hide_border=true)](https://github.com/Edge-Explorer)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=dark-dimmed&hide_border=true" alt="GitHub Activity Graph" />
 
 ---
 
