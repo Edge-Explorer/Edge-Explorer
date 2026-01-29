@@ -10,6 +10,31 @@
 
 ---
 
+## 🔥 GitHub Streak & Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="100%"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&title_color=58A6FF&line=58A6FF&point=FF6B6B" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages & Core**
@@ -29,6 +54,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### **ML/DL Frameworks**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -50,20 +76,12 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### **Development Tools**
+### **Development Tools & APIs**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
 
 ---
 
@@ -72,7 +90,7 @@
 ### 🧠 Currently Mastering
 - 🤖 **Multi-Agent AI Systems** - Building intelligent agent orchestration
 - 🔗 **LangChain & LangGraph** - Advanced RAG patterns and AI workflows
-- ☁️ **Cloud Deployment** - Production-grade FastAPI on Render
+- ☁️ **Cloud Deployment** - Production-grade FastAPI on Render & Google Cloud
 - 📱 **React Native + Expo** - Cross-platform mobile development
 - 🗄️ **Database Management** - PostgreSQL with Alembic migrations
 
@@ -80,14 +98,9 @@
 - **Backend**: FastAPI + PostgreSQL + SQLAlchemy
 - **AI/ML**: LangChain + Google Gemini + Custom Agents
 - **Mobile**: React Native + Expo SDK + EAS Build
-- **DevOps**: Render + Docker + Git workflows
+- **DevOps**: Render + Docker + Google Cloud + Git workflows
+- **API Testing**: Postman + Advanced API debugging
 - **Data**: Pandas + NumPy + Jupyter Notebooks
-
----
-
-## 📈 Contribution Activity
-
-[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=react-dark&hide_border=true&area=true)](https://github.com/Edge-Explorer)
 
 ---
 
@@ -110,6 +123,7 @@ An intelligent productivity ecosystem that acts as your AI life coach. Built wit
 - **Frontend**: React Native + Expo SDK 54 + EAS Build
 - **Deployment**: Render (Live Production)
 - **Database**: PostgreSQL with Alembic migrations
+- **API Testing**: Postman
 
 **📲 [Download APK](https://drive.google.com/file/d/19xgBoib7a0IM-4vt2OWgHXDF9khs-5vn/view?usp=drive_link)** | **🌐 [Live API](https://neel-8ybz.onrender.com/docs)** | **💻 [View Repository](https://github.com/Edge-Explorer/NEEL)**
 
@@ -136,11 +150,12 @@ Developing intelligent systems using TensorFlow and PyTorch. Working on NLP task
 ## 💼 What I'm Working On
 
 - 🤖 Building **Multi-Agent AI Systems** with LangChain and LangGraph
-- ☁️ Deploying **production-grade APIs** on Render with PostgreSQL
+- ☁️ Deploying **production-grade APIs** on Render & Google Cloud with PostgreSQL
 - 📱 Creating **premium mobile experiences** with React Native & Expo
 - 🧠 Implementing **RAG systems** for intelligent information retrieval
 - 🔬 Experimenting with **LLMs** and prompt engineering techniques
 - 📊 Building **data visualization** tools with Plotly and Matplotlib
+- 🧪 Testing **APIs** with Postman for robust backend development
 - 🚀 Contributing to **open-source AI projects**
 
 ---
@@ -151,9 +166,10 @@ I'm actively seeking collaborators interested in:
 
 - 🤖 **AI Agent Development** - Multi-agent systems and orchestration
 - 📱 **Mobile AI Applications** - Bringing AI to mobile platforms
-- ☁️ **Cloud Architecture** - Scalable deployment strategies
+- ☁️ **Cloud Architecture** - Scalable deployment strategies on Google Cloud & other platforms
 - 🔬 **LLM Fine-tuning** - Model optimization and evaluation
 - 📊 **Data Science** - Analysis and visualization projects
+- 🧪 **API Development** - Building robust RESTful and GraphQL APIs
 
 Feel free to reach out! I'm always excited to work with passionate developers and researchers.
 
@@ -172,7 +188,7 @@ Feel free to reach out! I'm always excited to work with passionate developers an
 
 ---
 
-### 💡 "The best way to predict the future is to create it."
+## 💡 "The best way to predict the future is to create it."
 
 <div align="center">
 
