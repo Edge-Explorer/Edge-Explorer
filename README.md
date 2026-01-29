@@ -10,28 +10,32 @@
 
 ---
 
-## 🔥 GitHub Streak & Contribution Stats
+## 🔥 GitHub Contributions & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="100%"/>
+
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Edge-Explorer&color=blueviolet&style=flat-square&abbreviated=true)
+
+### 🏆 Contribution Stats
+
+![GitHub Contributions](https://img.shields.io/badge/GitHub%20User-Edge--Explorer-181717?style=for-the-badge&logo=github)
+
 </div>
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## 📊 Recent Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
+<details open>
+<summary><b>📈 GitHub Statistics</b></summary>
 
----
+- 🔗 **GitHub Profile**: [@Edge-Explorer](https://github.com/Edge-Explorer)
+- 💻 **Primary Languages**: Python, JavaScript, TypeScript
+- 🎯 **Focus Areas**: AI Development, Mobile Apps, Backend Systems
+- 📱 **Latest Project**: NEEL - Multi-Agent AI Life Coach
+- 🚀 **Most Used Tools**: FastAPI, React Native, LangChain
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&title_color=58A6FF&line=58A6FF&point=FF6B6B" alt="GitHub Activity Graph" width="100%"/>
-</div>
+</details>
 
 ---
 
