@@ -26,11 +26,12 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Repositories** | View on [GitHub](https://github.com/Edge-Explorer?tab=repositories) |
-| **Total Commits** | 757+ (since Dec 24, 2024) |
-| **Current Streak** | 29 days 🔥 |
-| **Longest Streak** | 29 days |
-| **Primary Languages** | Python, JavaScript, TypeScript |
+| **Total Repositories** | 31 Public |
+| **Total Stars** | ⭐ 103 |
+| **Total Forks** | 🍴 1 |
+| **Followers** | 👥 6 |
+| **Following** | 👤 4 |
+| **Last Updated** | January 29, 2026 at 02:51 PM UTC |
 
 </div>
 
@@ -44,9 +45,6 @@ Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
 
 *This section updates automatically every day via GitHub Actions! 🤖*
-
-
-
 ---
 
 ## 📈 Contribution Graph
