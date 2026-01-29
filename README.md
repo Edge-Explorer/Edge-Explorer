@@ -24,17 +24,34 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | View on [GitHub](https://github.com/Edge-Explorer?tab=repositories) |
+| **Total Commits** | 757+ (since Dec 24, 2024) |
+| **Current Streak** | 29 days 🔥 |
+| **Longest Streak** | 29 days |
+| **Primary Languages** | Python, JavaScript, TypeScript |
 
 </div>
+
+### 🏆 Top Technologies
+
+```
+Python          ████████████████████ 50%
+JavaScript      ████████████░░░░░░░░ 30%
+TypeScript      ████████░░░░░░░░░░░░ 15%
+Other           ███░░░░░░░░░░░░░░░░░ 5%
+```
+
+
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=dark-dimmed&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=dark-dimmed&hide_border=true&bg_color=1a1a1a" alt="GitHub Activity Graph" />
+
+**Recent Activity**: 29-day active streak | 757+ Total Contributions | Consistent Daily Commits 🎯
 
 ---
 
