@@ -10,16 +10,6 @@
 
 ---
 
-## 🔥 GitHub Contributions & Streaks
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Edge-Explorer&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
