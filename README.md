@@ -1,10 +1,11 @@
-# 👋 Hi there, I'm Karan Shelar
+# 👋 Hi there, I'm Karan Rohidas Shelar
 
-### 🚀 Gen AI developer | AI Enthusiast | Mobile Developer
+### 🚀 Generative AI Developer | AI Enthusiast | Mobile Developer
 
 *"I can visualize complex things and make them simple."*
 
 [![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=firefox)](https://karan-portfolio-opal.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1QhYwPLs4nQjjvCFuEEjYx0Q8Gbcc7GMb/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-shelar-779381343)
 
