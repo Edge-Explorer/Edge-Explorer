@@ -134,7 +134,7 @@ An intelligent productivity ecosystem that acts as your AI life coach. Built wit
 **🛠️ Tech Stack:**
 - **Backend**: FastAPI + PostgreSQL + LangChain + Google Gemini
 - **Frontend**: React Native + Expo SDK 54 + EAS Build
-- **Deployment**: Render (Live Production)
+- **Deployment**: Vercel 
 - **Database**: PostgreSQL with Alembic migrations
 - **API Testing**: Postman
 
