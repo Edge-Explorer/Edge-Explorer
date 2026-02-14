@@ -138,7 +138,7 @@ An intelligent productivity ecosystem that acts as your AI life coach. Built wit
 - **Database**: PostgreSQL with Alembic migrations
 - **API Testing**: Postman
 
-**📲 [Download APK](https://drive.google.com/file/d/19xgBoib7a0IM-4vt2OWgHXDF9khs-5vn/view?usp=drive_link)** | **🌐 [Live API](https://neel-8ybz.onrender.com/docs)** | **💻 [View Repository](https://github.com/Edge-Explorer/NEEL)**
+**📲 [Download APK](https://drive.google.com/file/d/1S-STasJHdxNbDluiPOVuIbMDho2QOHMy/view?usp=drive_link)** | **💻 [View Repository](https://github.com/Edge-Explorer/NEEL)**
 
 ---
 
