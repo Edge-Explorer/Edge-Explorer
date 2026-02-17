@@ -35,7 +35,6 @@ TypeScript      ████████░░░░░░░░░░░░ 15%
 Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
 
-*This section updates automatically every day via GitHub Actions! 🤖*
 ---
 
 ## 📈 Contribution Graph
