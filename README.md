@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-karanshelar8775%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karanshelar8775@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=firefox)](https://karan-portfolio-opal.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1g99qEmAxJZ9F3lgxsqWzPZwE7nGHfgM-/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/166i6N47UNUHqyLPjLhSD1eovWTm6_ntj/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karan-shelar-779381343)
 
 ---
