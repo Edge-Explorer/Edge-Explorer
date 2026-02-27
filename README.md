@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Profile views & social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Edge-Explorer&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
@@ -33,26 +32,28 @@
 
 ## About Me
 
-```python
-class KaranShelar:
-    name       = "Karan Rohidas Shelar"
-    role       = "Generative AI Developer"
-    location   = "Navi Mumbai, Maharashtra, India"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-    focus      = [
-        "Multi-Agent AI Systems",
-        "Agentic Workflow Design",
-        "Full-Stack AI Deployment",
-        "Prompt Engineering & RAG Pipelines"
-    ]
+<br/>
 
-    currently  = "Building NEEL — a live multi-agent productivity intelligence system"
+**Hey, I'm Karan** — a Generative AI Developer from Navi Mumbai, India.
+I specialize in building **production-grade multi-agent AI systems** that think, reason, and reflect.
 
-    fun_facts  = ["Strategic Gamer", "Anime Enthusiast"]
+<br/>
 
-    def say_hello(self):
-        print("Hi! I build AI systems that think, reason & reflect. Let's connect!")
-```
+- **Currently building** NEEL — a live multi-agent productivity intelligence system
+- **Focus areas:** Agentic Workflows · Prompt Engineering · RAG Pipelines · Full-Stack AI
+- **Stack I love:** LangChain · LangGraph · FastAPI · React Native · Gemini API
+- **Education:** MCA in Data Science @ Amity University
+- **For fun:** Strategic Gaming &nbsp; | &nbsp; Anime
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6e40c9&width=500&lines=AI+systems+that+think+%F0%9F%A7%A0;AI+systems+that+reason+%E2%9A%A1;AI+systems+that+reflect+%F0%9F%94%84;AI+systems+that+ship+%F0%9F%9A%80" alt="About typing"/>
+</a>
+
+<br clear="right"/>
 
 ---
 
@@ -120,32 +121,20 @@ class KaranShelar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="38%"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
-
-</div>
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## Languages & Interests
-
-<div align="center">
-
-**Languages:** &nbsp; English (Proficient) &nbsp;|&nbsp; Marathi (Native) &nbsp;|&nbsp; Hindi (Native)
-
-**Interests:** &nbsp; Strategic Gaming &nbsp;|&nbsp; Anime
 
 </div>
 
