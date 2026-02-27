@@ -59,16 +59,21 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-### 🛠️ The Tech Box
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,streamlit,flask,fastapi,react,tailwind,ts,mysql,postgres,supabase,docker,git,github,vercel,openai,postman,pycharm&theme=dark&perline=7)](https://skillicons.dev)
+### 🛠️ The Tech Grid
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,tailwind,ts,mysql,postgres,supabase,docker,git,github,vercel,postman,pycharm,linux,html,css,js&theme=dark&perline=7" alt="Tech Stack Icons"/>
 
-<br/>
+<br/><br/>
 
-### 🤖 Specialized AI Frameworks
+### 🤖 Specialized AI & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-6e40c9?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white" />
