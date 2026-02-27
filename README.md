@@ -59,32 +59,19 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-### AI & Agentic Frameworks
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,supabase,docker,git,github,vercel,pytorch,tensorflow&theme=dark&perline=6" alt="Tech Stack Icons"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI Icons"/>
+<br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6e40c9?style=for-the-badge&logo=graphql&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=audioboom&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-00C7B7?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts&theme=dark" alt="Dev Icons"/>
-
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6e40c9?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases & DevOps
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,vercel&theme=dark" alt="DB Icons"/>
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![EAS Build](https://img.shields.io/badge/EAS%20Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6e40c9?style=flat-square&logo=graphql&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=audioboom&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-a855f7?style=flat-square&logo=databricks&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=python&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS%20Build-4630EB?style=flat-square&logo=expo&logoColor=white)
 
 </div>
 
@@ -116,23 +103,17 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Edge-Explorer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-<br/>
-
-### Streak
-
 <img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
-<br/>
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
-
 </div>
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 ---
 
