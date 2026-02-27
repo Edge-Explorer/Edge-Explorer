@@ -14,15 +14,15 @@
   <img src="https://komarev.com/ghpvc/?username=Edge-Explorer&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://linkedin.com/in/karan-shelar-779381343">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:karanshelar8775@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-karanshelar8775-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-karanshelar8775-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://karan-portfolio-opal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -45,13 +45,11 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 - **Focus areas:** Agentic Workflows · Prompt Engineering · RAG Pipelines · Full-Stack AI
 - **Stack I love:** LangChain · LangGraph · FastAPI · React Native · Gemini API
 - **Education:** MCA in Data Science @ Amity University
-- **For fun:** Strategic Gaming &nbsp; | &nbsp; Anime
+- **For fun:** Strategic Gaming &nbsp;|&nbsp; Anime
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6e40c9&width=500&lines=AI+systems+that+think+%F0%9F%A7%A0;AI+systems+that+reason+%E2%9A%A1;AI+systems+that+reflect+%F0%9F%94%84;AI+systems+that+ship+%F0%9F%9A%80" alt="About typing"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6e40c9&width=500&lines=AI+systems+that+think+%F0%9F%A7%A0;AI+systems+that+reason+%E2%9A%A1;AI+systems+that+reflect+%F0%9F%94%84;AI+systems+that+ship+%F0%9F%9A%80" alt="About typing"/>
 
 <br clear="right"/>
 
@@ -61,34 +59,31 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-### AI / ML & Agentic Frameworks
+### AI & Agentic Frameworks
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI Icons"/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6e40c9?style=for-the-badge&logo=graphql&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=audioboom&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-00C7B7?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts&theme=dark" alt="Dev Icons"/>
+
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6e40c9?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,vercel&theme=dark" alt="DB Icons"/>
+
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![EAS Build](https://img.shields.io/badge/EAS%20Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
@@ -121,18 +116,19 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Edge-Explorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edge-Explorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Edge-Explorer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+<br/>
+
+### Streak
 
 <img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+
+<br/>
+
+### Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
 
