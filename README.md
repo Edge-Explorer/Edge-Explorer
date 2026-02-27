@@ -59,20 +59,19 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 <div align="center">
 
-### 🛠️ Languages, Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,ts,postgres,supabase,docker,git,github,vercel,openai,postman&theme=dark&perline=7)](https://skillicons.dev)
+### 🛠️ The Tech Box
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,streamlit,flask,fastapi,react,tailwind,ts,mysql,postgres,supabase,docker,git,github,vercel,openai,postman,pycharm&theme=dark&perline=7)](https://skillicons.dev)
 
-### 🤖 AI Frameworks & Platforms (Unified Boxes)
+<br/>
+
+### 🤖 Specialized AI Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=square&logo=langchain&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-LangGraph-6e40c9?style=square&logo=graphql&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-Gemini_API-4285F4?style=square&logo=google&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=square&logo=openai&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-ElevenLabs-000000?style=square&logo=audioboom&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-RAG_Pipelines-a855f7?style=square&logo=databricks&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-CC0000?style=square&logo=python&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-Render-46E3B7?style=square&logo=render&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-EAS_Build-4630EB?style=square&logo=expo&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6e40c9?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 </div>
