@@ -121,6 +121,12 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 ---
 
+## ⚡ Recent Activity
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+---
+
 ## Connect With Me
 
 <div align="center">
