@@ -105,16 +105,10 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 ---
 
-## 📊 Fully Automated GitHub Metrics
+## 📊 GitHub Metrics
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/main/github-metrics.svg" width="100%" alt="Automated DashBoard"/>
+  <img src="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </div>
-
----
-
-## 🚀 Top Repositories
-<!-- START_SECTION:top-repos -->
-<!-- END_SECTION:top-repos -->
 
 ---
 
