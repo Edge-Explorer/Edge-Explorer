@@ -36,10 +36,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Edge-Explorer
           template: classic
-          base: header, activity, community, metadata, repositories
+          base: header, community, metadata, repositories
           config_timezone: Asia/Kolkata
-          
-          # Stable Plugins (They work great with default GITHUB_TOKEN)
+
+          # Stable Plugins (work with default GITHUB_TOKEN, no elevated perms needed)
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
