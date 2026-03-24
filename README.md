@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a855f7&height=200&section=header&text=KARAN%20SHELAR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Developer%20%7C%20Multi-Agent%20Systems%20%7C%20Full-Stack%20AI&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a855f7&height=220&section=header&text=KARAN%20ROHIDAS%20SHELAR&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLM%20Fine-Tuning&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Multi-Agent+Systems;Crafting+Agentic+AI+Workflows;Turning+Ideas+into+Production+AI;LangChain+%7C+FastAPI+%7C+React+Native+%7C+Gemini+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Production+Multi-Agent+Systems;LLM+Fine-Tuning+%26+Alignment;Engineering+Agentic+RAG+Workflows;LangGraph+%7C+FastAPI+%7C+Gemini+2.0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,78 +30,89 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 <br/>
 
-**Hey, I'm Karan** — a Generative AI Developer from Navi Mumbai, India.
-I specialize in building **production-grade multi-agent AI systems** that think, reason, and reflect.
+**AI Engineer** specializing in **Multi-Agent Systems** and **LLM Fine-Tuning**.
+I build production-grade AI systems that bridge the gap between AI research and real-world applications.
+
+- **5+ Production AI Systems** built using LangGraph, FastAPI, and Gemini 2.0.
+- **Specializations:** Agentic Workflows · RAG Pipelines · MCP Servers · Computer Vision.
+- **Tech Lead:** Engineered modular DPO alignment pipelines and autonomous agent swarms.
+- **Location:** Navi Mumbai, Maharashtra, India.
 
 <br/>
 
-- **Currently building** NEEL — a live multi-agent productivity intelligence system
-- **Focus areas:** Agentic Workflows · Prompt Engineering · RAG Pipelines · Full-Stack AI
-- **Stack I love:** LangChain · LangGraph · FastAPI · React Native · Gemini API
-- **Education:** MCA in Data Science @ Amity University
-- **For fun:** Strategic Gaming &nbsp;|&nbsp; Anime
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6e40c9&width=500&lines=AI+systems+that+think+%F0%9F%A7%A0;AI+systems+that+reason+%E2%9A%A1;AI+systems+that+reflect+%F0%9F%94%84;AI+systems+that+ship+%F0%9F%9A%80" alt="About typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6e40c9&width=500&lines=Fine-tuning+LLMs+%F0%9F%A7%A0;Orchestrating+Multi-Agent+Swarms+%E2%9A%A1;Building+Agentic+RAG+%F0%9F%94%84;Scaling+Intelligence+%F0%9F%9A%80" alt="About typing"/>
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 🛠️ The Tech Grid
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,tailwind,ts,mysql,postgres,supabase,docker,git,github,vercel,postman,pycharm,linux,html,css,js&theme=dark&perline=7" alt="Tech Stack Icons"/>
+### 💻 Core Engineering
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,tailwind,ts,mysql,postgres,supabase,docker,git,github,vercel,postman,pycharm,linux,html,css,js&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/><br/>
-
-### 🤖 Specialized AI & Frameworks
+### 🤖 Specialized AI & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-6e40c9?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-a855f7?style=for-the-badge&logo=hugginface&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-a855f7?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## Highlight Project: NEEL
+## 🚀 Featured Projects
 
-<div align="center">
+### ⚒️ [Llama-3 DPO Alignment Pipeline](https://github.com/Edge-Explorer/llama3-dpo-alignment-pipeline)
+> **Jan 2026 - Mar 2026**
+- Engineered a modular DPO alignment pipeline for Llama-3 8B using **Unsloth**, leading to **2x training speed** and **70% VRAM reduction**.
+- Administered YAML-driven config system enabling single-command finetuning, reducing reproduction time by **80% across 3 datasets**.
+- Optimized training on Kaggle T4 GPUs via **4-bit quantization**, publishing the trained adapter on HuggingFace.
 
-> **NEEL** — *Multi-Agent AI Productivity Intelligence System*
->
-> A live, production-grade system powered by a **3-tier multi-agent architecture** that logs, analyzes, and coaches productivity habits using natural language.
+### 🛡️ [DevGuardian MCP Server](https://github.com/Edge-Explorer/DevGuardian)
+> **Feb 2026 - Mar 2026**
+- Led development of DevGuardian MCP Server using **Gemini 2.0 Flash**, administering 27 autonomous tools to enhance code quality and security.
+- Engineered a **multi-agent pipeline** autonomously generating, testing, and reviewing code — accelerating deployment speed by **50%**.
+- Spearheaded a pre-push security gate detecting 20+ credential types, blocking **100%** of accidental secret exposures.
 
-</div>
+### 🕵️ [NEEL – Multi-Agent AI](https://github.com/Edge-Explorer/NEEL)
+> **Oct 2025 - Jan 2026**
+- Engineered a **3-tier multi-agent AI system** using LangChain and FastAPI, leading reliability improvements of **25%** across 500+ activities.
+- Spearheaded a **LangChain-based NLP extraction engine**, transforming natural language inputs into structured logs with **sub-200ms response times**.
+- Orchestrated complex workflows with **LangGraph** to automate productivity coaching.
 
-| Component | Detail |
-|---|---|
-| **Architecture** | Supervisor → Reasoning → Reflection Agent |
-| **Stack** | LangChain · LangGraph · FastAPI · React Native · PostgreSQL · Gemini API |
-| **Performance** | Sub-200ms API response time |
-| **Scale** | 500+ logged activities processed |
-| **Intelligence** | Data-sufficiency gating + reflection-based validation |
-| **Deployment** | FastAPI on Render · PostgreSQL managed DB · EAS Build (mobile) |
-| **Coaching Engine** | Streak tracking + behavioral pattern analysis across 8 productivity categories |
+---
+
+## 🎓 Education & Certifications
+
+### 🏛️ Education
+- **MCA Data Science** | Amity University Online | *2024 - Present*
+- **B.Sc. Information Technology** | Mumbai University | *2021 - 2024*
+
+### 📜 Certifications
+- **Supervised Machine Learning:** Regression and Classification
+- **Introduction to Neural Networks and PyTorch**
+- **Databases and SQL for Data Science with Python**
+- **Generative AI for Everyone**
 
 ---
 
@@ -121,21 +132,22 @@ I specialize in building **production-grade multi-agent AI systems** that think,
 
 </div>
 
-
 ---
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#12](https://github.com/Edge-Explorer/Interview-Prep/pull/12) in [Edge-Explorer/Interview-Prep](https://github.com/Edge-Explorer/Interview-Prep)
 <!--END_SECTION:activity-->
 
-## Connect With Me
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Shelar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-shelar-779381343)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-opal.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Rohidas%20Shelar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-shelar-779381343/)
 [![GitHub](https://img.shields.io/badge/GitHub-Edge--Explorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edge-Explorer)
 [![Gmail](https://img.shields.io/badge/Email-karanshelar8775-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanshelar8775@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-opal.vercel.app/)
 
 </div>
 
