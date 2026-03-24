@@ -80,28 +80,6 @@ I build production-grade AI systems that bridge the gap between AI research and 
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚒️ [Llama-3 DPO Alignment Pipeline](https://github.com/Edge-Explorer/llama3-dpo-alignment-pipeline)
-> **Jan 2026 - Mar 2026**
-- Engineered a modular DPO alignment pipeline for Llama-3 8B using **Unsloth**, leading to **2x training speed** and **70% VRAM reduction**.
-- Administered YAML-driven config system enabling single-command finetuning, reducing reproduction time by **80% across 3 datasets**.
-- Optimized training on Kaggle T4 GPUs via **4-bit quantization**, publishing the trained adapter on HuggingFace.
-
-### 🛡️ [DevGuardian MCP Server](https://github.com/Edge-Explorer/DevGuardian)
-> **Feb 2026 - Mar 2026**
-- Led development of DevGuardian MCP Server using **Gemini 2.0 Flash**, administering 27 autonomous tools to enhance code quality and security.
-- Engineered a **multi-agent pipeline** autonomously generating, testing, and reviewing code — accelerating deployment speed by **50%**.
-- Spearheaded a pre-push security gate detecting 20+ credential types, blocking **100%** of accidental secret exposures.
-
-### 🕵️ [NEEL – Multi-Agent AI](https://github.com/Edge-Explorer/NEEL)
-> **Oct 2025 - Jan 2026**
-- Engineered a **3-tier multi-agent AI system** using LangChain and FastAPI, leading reliability improvements of **25%** across 500+ activities.
-- Spearheaded a **LangChain-based NLP extraction engine**, transforming natural language inputs into structured logs with **sub-200ms response times**.
-- Orchestrated complex workflows with **LangGraph** to automate productivity coaching.
-
----
-
 ## 🎓 Education & Certifications
 
 ### 🏛️ Education
