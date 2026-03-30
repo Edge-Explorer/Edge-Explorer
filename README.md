@@ -116,7 +116,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8109](https://github.com/huggingface/datasets/pull/8109) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. 💪 Opened PR [#21218](https://github.com/run-llama/llama_index/pull/21218) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
 <!--END_SECTION:activity-->
 
 ---
