@@ -46,7 +46,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 - **5+ Production AI Systems** built using LangGraph, FastAPI, and Gemini 2.0.
 - **Specializations:** Agentic Workflows · RAG Pipelines · MCP Servers · Computer Vision.
 - **Tech Lead:** Engineered modular DPO alignment pipelines and autonomous agent swarms.
-- **Location:** Navi Mumbai, Maharashtra, India.
+- **Location:** Navi Mumbai, Maharashtra, India
 
 <br/>
 
