@@ -93,7 +93,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 ### 🎮 Hobbies & Interests
 - **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning.
 - **Storytelling Games** | Exploring immersive worlds with rich narratives.
-- **Anime** | Fan of compelling stories and unique animation styles.
+- **Anime** | Fan of compelling stories and unique animation styles
 
 ---
 
