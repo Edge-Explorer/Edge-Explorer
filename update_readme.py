@@ -86,6 +86,8 @@ TypeScript      ████████░░░░░░░░░░░░ 15%
 Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
 
+*This section updates automatically every day via GitHub Actions! 🤖*"""
+
         
         # Find and replace the stats section
         # Improved regex to match both 'Stats' and 'Statistics' and handle different markers
