@@ -43,4 +43,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update README with latest GitHub stats" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update README with latest GitHub stats [Skip GitHub Action]" && git push)

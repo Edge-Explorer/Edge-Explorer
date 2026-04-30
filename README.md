@@ -90,14 +90,18 @@ I build production-grade AI systems that bridge the gap between AI research and 
 - **MCA Data Science** | Amity University Online | *2024 - Present*
 - **B.Sc. Information Technology** | Mumbai University | *2021 - 2024*
 
+<div align="center">
+  
 ### 🎮 Hobbies & Interests
 - **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning
 - **Storytelling Games** | Exploring immersive worlds with rich narratives
 - **Anime** | Fan of compelling stories and unique animation styles
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -116,7 +120,6 @@ I build production-grade AI systems that bridge the gap between AI research and 
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21249](https://github.com/run-llama/llama_index/pull/21249) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
 <!--END_SECTION:activity-->
 
 ---

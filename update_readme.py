@@ -77,8 +77,13 @@ Other           ███░░░░░░░░░░░░░░░░░ 5%
 *This section updates automatically every day via GitHub Actions! 🤖*"""
         
         # Find and replace the stats section
-        pattern = r'## 📊 GitHub Statistics.*?(?=\n---|\n## 📈)'
-        updated_content = re.sub(pattern, new_stats.rstrip(), content, flags=re.DOTALL)
+        # Improved regex to match both 'Stats' and 'Statistics' and handle different markers
+        pattern = r'## 📊 GitHub Stat.*?(\n---|\n##)'
+        if not re.search(pattern, content, flags=re.DOTALL):
+            print("❌ Could not find GitHub Stats section in README.md")
+            return False
+            
+        updated_content = re.sub(pattern, new_stats.rstrip() + "\n\n", content, flags=re.DOTALL)
         
         # Write back
         with open('README.md', 'w', encoding='utf-8') as f:
