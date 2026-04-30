@@ -105,19 +105,29 @@ I build production-grade AI systems that bridge the gap between AI research and 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Edge-Explorer/Edge-Explorer/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | 33 Public |
+| **Total Stars** | ⭐ 62 |
+| **Total Forks** | 🍴 1 |
+| **Followers** | 👥 9 |
+| **Following** | 👤 4 |
+| **Last Updated** | April 30, 2026 at 01:38 PM UTC |
 
 </div>
 
----
+### 🏆 Top Technologies
+
+```
+Python          ████████████████████ 50%
+JavaScript      ████████████░░░░░░░░ 30%
+TypeScript      ████████░░░░░░░░░░░░ 15%
+Other           ███░░░░░░░░░░░░░░░░░ 5%
+```
+
+*This section updates automatically every day via GitHub Actions! 🤖*
+
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
