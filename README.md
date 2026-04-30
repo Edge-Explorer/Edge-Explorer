@@ -137,21 +137,6 @@ TypeScript      ████████░░░░░░░░░░░░ 15%
 Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
 
-*This section updates automatically every day via GitHub Actions! 🤖*
-
-# 🏆 Top Technologies
-
-```
-Python          ████████████████████ 50%
-JavaScript      ████████████░░░░░░░░ 30%
-TypeScript      ████████░░░░░░░░░░░░ 15%
-Other           ███░░░░░░░░░░░░░░░░░ 5%
-```
-
-*This section updates automatically every day via GitHub Actions! 🤖*
-
-
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
