@@ -50,7 +50,8 @@ def update_readme(username, token):
             content = f.read()
         
         # Create new stats section
-        new_stats = f"""## 📊 GitHub Statistics
+        new_stats = f"""<!-- START_STATS -->
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -86,17 +87,16 @@ TypeScript      ████████░░░░░░░░░░░░ 15%
 Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
 
-*This section updates automatically every day via GitHub Actions! 🤖*"""
-
+*This section updates automatically every day via GitHub Actions! 🤖*
+<!-- END_STATS -->"""
         
-        # Find and replace the stats section
-        # Improved regex to match both 'Stats' and 'Statistics' and handle different markers
-        pattern = r'## 📊 GitHub Stat.*?(\n---|\n##)'
+        # Find and replace the stats section using markers
+        pattern = r'<!-- START_STATS -->.*?<!-- END_STATS -->'
         if not re.search(pattern, content, flags=re.DOTALL):
-            print("❌ Could not find GitHub Stats section in README.md")
+            print("❌ Could not find START_STATS and END_STATS markers in README.md")
             return False
             
-        updated_content = re.sub(pattern, new_stats.rstrip() + "\n\n", content, flags=re.DOTALL)
+        updated_content = re.sub(pattern, new_stats, content, flags=re.DOTALL)
         
         # Write back
         with open('README.md', 'w', encoding='utf-8') as f:

@@ -101,6 +101,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 
 ---
 
+<!-- START_STATS -->
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -136,6 +137,8 @@ JavaScript      ████████████░░░░░░░░ 30%
 TypeScript      ████████░░░░░░░░░░░░ 15%
 Other           ███░░░░░░░░░░░░░░░░░ 5%
 ```
+
+<!-- END_STATS -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
