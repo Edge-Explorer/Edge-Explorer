@@ -1,0 +1,36 @@
+# Security patterns (DevGuardian requirements)
+.env
+*.env
+.env.*
+.env.local
+.env.production
+.env.staging
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+secrets/
+credentials/
+.aws/
+service-account*.json
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+scratch/
