@@ -68,26 +68,10 @@ def update_readme(username, token):
 | **Following** | 👤 {stats['following']} |
 | **Last Updated** | {datetime.now().strftime('%B %d, %Y at %I:%M %p UTC')} |
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Edge-Explorer&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6e40c9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 </div>
-
-### 🏆 Top Technologies
-
-```
-Python          ████████████████████ 50%
-JavaScript      ████████████░░░░░░░░ 30%
-TypeScript      ████████░░░░░░░░░░░░ 15%
-Other           ███░░░░░░░░░░░░░░░░░ 5%
-```
-
-*This section updates automatically every day via GitHub Actions! 🤖*
 <!-- END_STATS -->"""
         
         # Find and replace the stats section using markers
