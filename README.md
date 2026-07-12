@@ -87,7 +87,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 ## 🎓 Education & Certifications
 
 ### 🏛️ Education
-- **MCA Data Science** | Amity University Online | *2024 - Present*
+- **MCA Data Science** | Amity University Online | *2024 - 2026*
 - **B.Sc. Information Technology** | Mumbai University | *2021 - 2024*
 
 <div align="center">
