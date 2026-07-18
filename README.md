@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22043](undefined) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
+1.  Labeled issue [#3](https://github.com/Edge-Explorer/QuantIQ/issues/3) in [Edge-Explorer/QuantIQ](https://github.com/Edge-Explorer/QuantIQ)
 <!--END_SECTION:activity-->
 
 ---
