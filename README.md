@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0-alpha: Real-Time Ingestion & Local ONNX Inference](https://github.com/Edge-Explorer/QuantIQ/releases/tag/v0.1.0-alpha) in [Edge-Explorer/QuantIQ](https://github.com/Edge-Explorer/QuantIQ)
+1. 🗣 Commented on [#5](https://github.com/Edge-Explorer/QuantIQ/pull/5#issuecomment-5010967226) in [Edge-Explorer/QuantIQ](https://github.com/Edge-Explorer/QuantIQ)
 <!--END_SECTION:activity-->
 
 ---
