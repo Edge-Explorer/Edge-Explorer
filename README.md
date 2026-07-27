@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3](https://github.com/Edge-Explorer/Hydra-Runtime/issues/3) in [Edge-Explorer/Hydra-Runtime](https://github.com/Edge-Explorer/Hydra-Runtime)
+1. 🔒 Closed issue [#1](https://github.com/Edge-Explorer/Narad-Email-Agent/issues/1) in [Edge-Explorer/Narad-Email-Agent](https://github.com/Edge-Explorer/Narad-Email-Agent)
 <!--END_SECTION:activity-->
 
 ---
