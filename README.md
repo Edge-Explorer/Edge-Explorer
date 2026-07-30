@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3418](undefined) in [google-research/google-research](https://github.com/google-research/google-research)
+1.  Labeled issue [#5](https://github.com/Edge-Explorer/Hydra-Runtime/issues/5) in [Edge-Explorer/Hydra-Runtime](https://github.com/Edge-Explorer/Hydra-Runtime)
 <!--END_SECTION:activity-->
 
 ---
