@@ -87,7 +87,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 ## 🎓 Education & Certifications
 
 ### 🏛️ Education
-- **MCA Data Science** | Amity University Online | *2024 - Present*
+- **MCA Data Science** | Amity University Online | *2024 - 2026*
 - **B.Sc. Information Technology** | Mumbai University | *2021 - 2024*
 
 <div align="center">
@@ -112,12 +112,12 @@ I build production-grade AI systems that bridge the gap between AI research and 
 
 | Metric | Value |
 |--------|-------|
-| **Total Repositories** | 36 Public |
+| **Total Repositories** | 40 Public |
 | **Total Stars** | ⭐ 66 |
-| **Total Forks** | 🍴 2 |
+| **Total Forks** | 🍴 3 |
 | **Followers** | 👥 9 |
 | **Following** | 👤 3 |
-| **Last Updated** | July 08, 2026 at 02:41 AM UTC |
+| **Last Updated** | August 01, 2026 at 02:46 AM UTC |
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22043](undefined) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
+1.  Labeled issue [#5](https://github.com/Edge-Explorer/Hydra-Runtime/issues/5) in [Edge-Explorer/Hydra-Runtime](https://github.com/Edge-Explorer/Hydra-Runtime)
 <!--END_SECTION:activity-->
 
 ---
