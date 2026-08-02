@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1zwf8oKxJUntkBNMS4GgYWkO3IHjlOrmq/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1GrY4BaYyHCRtHuQxhhhtlrOhFa17mRGS/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-6e40c9?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
