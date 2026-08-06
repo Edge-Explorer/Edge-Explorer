@@ -126,7 +126,7 @@ I build production-grade AI systems that bridge the gap between AI research and 
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#5](https://github.com/Edge-Explorer/Hydra-Runtime/issues/5) in [Edge-Explorer/Hydra-Runtime](https://github.com/Edge-Explorer/Hydra-Runtime)
+1. 🗣 Commented on [#51272](https://github.com/vllm-project/vllm/pull/51272#issuecomment-5206799423) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
