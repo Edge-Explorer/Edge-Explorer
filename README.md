@@ -56,6 +56,21 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 
 ---
 
+## 🚀 Featured Project
+
+### 📈 [QuantIQ](https://github.com/Edge-Explorer/QuantIQ) — AI-Powered Decision Intelligence for Retail Investors
+
+**QuantIQ** is a full-stack decision intelligence platform that integrates real-time market data, technical indicators, machine learning, and AI agent reasoning into a unified trading terminal.
+
+* **Real-Time Data Flow:** Ingests live stock price ticks from Yahoo Finance every 5 seconds, routed via a **Redpanda** (Kafka-compatible) message broker to browser clients using WebSockets.
+* **Local ML Inference:** Engineered an on-device **ONNX** model (RandomForest) inside the FastAPI process to predict stock price direction with <5ms latency and zero API cost.
+* **Multi-Step AI Analyst:** Built a **Gemini 2.5 Flash ReAct agent** that executes custom Python tools to fetch stock history, compute indicators (RSI, MACD, EMA), and run ML predictions to generate structured financial reports.
+* **MLOps Feedback Loop:** Designed a **Celery** background worker that automatically labels and evaluates past predictions, comparing user-defined trading strategies against AI-recommended targets over time.
+* **Observability:** Integrated custom **Prometheus** metrics to track token usage, agent latency, and data pipeline delay, visualized on a **Grafana Cloud** dashboard.
+* **Tech Stack:** React 19, Vite, TypeScript, FastAPI, Redpanda (Kafka), NeonDB (PostgreSQL), Celery, Redis, ONNX Runtime, Gemini 2.5 Flash, Razorpay.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
