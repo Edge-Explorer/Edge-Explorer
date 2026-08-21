@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Production+Multi-Agent+Systems;LLM+Fine-Tuning+%26+Alignment;Engineering+Agentic+RAG+Workflows;LangGraph+%7C+FastAPI+%7C+Gemini+2.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Engineering+Multi-Agent+Systems;LLM+Fine-Tuning+%26+Alignment;Engineering+Agentic+RAG+Workflows;LangGraph+%7C+FastAPI+%7C+Gemini+2.0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,12 +40,12 @@
 
 <br/>
 
-**AI Engineer** specializing in **Multi-Agent Systems** and **LLM Fine-Tuning**.
-I build production-grade AI systems that bridge the gap between AI research and real-world applications.
+**AI Engineer** focusing on **Multi-Agent Systems** and **LLM Fine-Tuning**.
+I engineer functional AI systems that bridge the gap between AI research and practical applications.
 
-- **5+ Production AI Systems** built using LangGraph, FastAPI, and Gemini 2.0.
+- **5+ AI Projects** engineered using LangGraph, FastAPI, and Gemini 2.0.
 - **Specializations:** Agentic Workflows · RAG Pipelines · MCP Servers · Computer Vision.
-- **Tech Lead:** Engineered modular DPO alignment pipelines and autonomous agent swarms.
+- **Key Projects:** Engineered modular DPO alignment pipelines and autonomous agent swarms.
 - **Location:** Navi Mumbai, Maharashtra, India.
 
 <br/>
