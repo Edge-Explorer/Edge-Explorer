@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8109](undefined) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. 🗣 Commented on [#51272](https://github.com/vllm-project/vllm/pull/51272#issuecomment-5380534248) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
