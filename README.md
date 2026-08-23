@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53435](https://github.com/vllm-project/vllm/pull/53435#issuecomment-5384645783) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#53435](https://github.com/vllm-project/vllm/pull/53435#issuecomment-5386401574) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
