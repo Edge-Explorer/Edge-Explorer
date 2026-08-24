@@ -69,6 +69,9 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 * **Observability:** Integrated custom **Prometheus** metrics to track token usage, agent latency, and data pipeline delay, visualized on a **Grafana Cloud** dashboard.
 * **Tech Stack:** React 19, Vite, TypeScript, FastAPI, Redpanda (Kafka), NeonDB (PostgreSQL), Celery, Redis, ONNX Runtime, Gemini 2.5 Flash, Razorpay.
 
+> [!NOTE]
+> **Contributions & Enhancements:** This project is actively open for refinements, optimizations, and new feature enhancements. Contributions are highly welcome! Feel free to explore the repository, open issues, or submit pull requests.
+
 ---
 
 ## 🛠️ Tech Stack & Skills
