@@ -111,9 +111,9 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <div align="center">
   
 ### 🎮 Hobbies & Interests
-- **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning.
-- **Storytelling Games** | Exploring immersive worlds with rich narratives.
-- **Anime** | Fan of compelling stories and unique animation styles.
+- **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning
+- **Storytelling Games** | Exploring immersive worlds with rich narratives
+- **Anime** | Fan of compelling stories and unique animation styles
 
 </div>
 
@@ -132,10 +132,10 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 |--------|-------|
 | **Total Repositories** | 43 Public |
 | **Total Stars** | ⭐ 68 |
-| **Total Forks** | 🍴 5 |
+| **Total Forks** | 🍴 6 |
 | **Followers** | 👥 9 |
 | **Following** | 👤 3 |
-| **Last Updated** | August 21, 2026 at 02:36 PM UTC |
+| **Last Updated** | August 24, 2026 at 03:16 PM UTC |
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
@@ -144,7 +144,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8109](undefined) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. 🗣 Commented on [#53435](https://github.com/vllm-project/vllm/pull/53435#issuecomment-5387244736) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
