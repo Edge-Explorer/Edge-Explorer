@@ -68,9 +68,6 @@ def update_readme(username, token):
 | **Following** | 👤 {stats['following']} |
 | **Last Updated** | {datetime.now().strftime('%B %d, %Y at %I:%M %p UTC')} |
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
-
 </div>
 <!-- END_STATS -->"""
         
