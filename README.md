@@ -137,9 +137,6 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 | **Following** | 👤 3 |
 | **Last Updated** | August 26, 2026 at 01:16 AM UTC |
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edge-Explorer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
-
 </div>
 <!-- END_STATS -->
 
