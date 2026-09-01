@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54512](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. ❌ Closed PR [#53439](undefined) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
