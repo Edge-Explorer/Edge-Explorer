@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#68](https://github.com/Edge-Explorer/QuantIQ/issues/68) in [Edge-Explorer/QuantIQ](https://github.com/Edge-Explorer/QuantIQ)
+1. 🗣 Commented on [#3418](https://github.com/google-research/google-research/pull/3418#issuecomment-5520336495) in [google-research/google-research](https://github.com/google-research/google-research)
 <!--END_SECTION:activity-->
 
 ---
