@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2 — Live Demo Links, PyPI Sidebar URLs & Architecture Specifications](https://github.com/Edge-Explorer/Parse-Anything-/releases/tag/v1.0.2) in [Edge-Explorer/Parse-Anything-](https://github.com/Edge-Explorer/Parse-Anything-)
+1. 💪 Opened PR [#5](undefined) in [Edge-Explorer/Parse-Anything-](https://github.com/Edge-Explorer/Parse-Anything-)
 <!--END_SECTION:activity-->
 
 ---
