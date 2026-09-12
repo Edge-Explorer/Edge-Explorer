@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#13](undefined) in [Edge-Explorer/Parse-Anything-](https://github.com/Edge-Explorer/Parse-Anything-)
+1. 🚀 Published release [v1.0.3 — Dual-Tier Ground Truth Benchmark Harness & Standardized Metrics Suite](https://github.com/Edge-Explorer/Parse-Anything-/releases/tag/v1.0.3) in [Edge-Explorer/Parse-Anything-](https://github.com/Edge-Explorer/Parse-Anything-)
 <!--END_SECTION:activity-->
 
 ---
