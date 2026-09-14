@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#20](undefined) in [Edge-Explorer/Parse-Anything-](https://github.com/Edge-Explorer/Parse-Anything-)
+1. 🗣 Commented on [#56756](https://github.com/vllm-project/vllm/pull/56756#issuecomment-5660830385) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
