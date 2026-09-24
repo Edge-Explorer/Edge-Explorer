@@ -141,7 +141,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [Edge-Explorer/Tracepass](https://github.com/Edge-Explorer/Tracepass)
+1. 💪 Opened PR [#8](undefined) in [Edge-Explorer/Tracepass](https://github.com/Edge-Explorer/Tracepass)
 <!--END_SECTION:activity-->
 
 ---
