@@ -102,14 +102,6 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🏛️ Education
-- **MCA Data Science** | Amity University Online | *2024 - 2026*
-- **B.Sc. Information Technology** | Mumbai University | *2021 - 2024*
-
-<div align="center">
-  
 ### 🎮 Hobbies & Interests
 - **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning
 - **Storytelling Games** | Exploring immersive worlds with rich narratives
