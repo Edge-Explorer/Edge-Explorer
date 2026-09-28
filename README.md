@@ -133,7 +133,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 <!-- END_STATS -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#15](undefined) in [Edge-Explorer/Tracepass](https://github.com/Edge-Explorer/Tracepass)
+1. ❌ Merged PR [#17](undefined) in [Edge-Explorer/Tracepass](https://github.com/Edge-Explorer/Tracepass)
 <!--END_SECTION:activity-->
 
 ---
