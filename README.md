@@ -125,9 +125,9 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 | **Total Repositories** | 46 Public |
 | **Total Stars** | ⭐ 73 |
 | **Total Forks** | 🍴 8 |
-| **Followers** | 👥 10 |
+| **Followers** | 👥 11 |
 | **Following** | 👤 4 |
-| **Last Updated** | October 05, 2026 at 04:22 AM UTC |
+| **Last Updated** | October 06, 2026 at 05:09 AM UTC |
 
 </div>
 <!-- END_STATS -->
