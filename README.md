@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edge-Explorer&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
+  <!-- START_VIEWS --><img src="https://img.shields.io/badge/Profile%20Views-4,701-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/><!-- END_VIEWS -->
   &nbsp;
   <a href="https://linkedin.com/in/karan-shelar-779381343">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -102,6 +102,8 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 
 ---
 
+<div align="center">
+
 ### 🎮 Hobbies & Interests
 - **Strategic Gaming** | Love deep-diving into complex mechanics and long-term planning
 - **Storytelling Games** | Exploring immersive worlds with rich narratives
@@ -127,7 +129,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 | **Total Forks** | 🍴 8 |
 | **Followers** | 👥 12 |
 | **Following** | 👤 4 |
-| **Last Updated** | October 18, 2026 at 03:17 AM UTC |
+| **Last Updated** | October 18, 2026 at 05:48 AM UTC |
 
 </div>
 <!-- END_STATS -->

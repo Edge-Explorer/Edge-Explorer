@@ -2,8 +2,8 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    # Runs every day at 12:00 AM UTC (adjust time as needed)
-    - cron: '0 0 * * *'
+    # Runs 3 times every day (8:00 AM, 4:00 PM, and 12:00 AM IST) for guaranteed daily commits
+    - cron: '30 2,10,18 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -18,12 +18,12 @@ jobs:
       
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
@@ -40,7 +40,11 @@ jobs:
       
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "karanshelar8775@gmail.com"
+          git config --local user.name "Karan Shelar"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update README with latest GitHub stats [Skip GitHub Action]" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(profile): auto-update daily GitHub stats and views"
+            git pull --rebase origin main
+            git push
+          fi

@@ -12,10 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@v0.4.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: update recent activity"
+          COMMIT_USERNAME: "Karan Shelar"
+          COMMIT_EMAIL: "karanshelar8775@gmail.com"
           MAX_LINES: 8
