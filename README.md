@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <!-- START_VIEWS --><img src="https://img.shields.io/badge/Profile%20Views-4,713-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/><!-- END_VIEWS -->
+  <!-- START_VIEWS --><img src="https://img.shields.io/badge/Profile%20Views-4,714-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/><!-- END_VIEWS -->
   &nbsp;
   <a href="https://linkedin.com/in/karan-shelar-779381343">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -129,7 +129,7 @@ I engineer functional AI systems that bridge the gap between AI research and pra
 | **Total Forks** | 🍴 8 |
 | **Followers** | 👥 12 |
 | **Following** | 👤 4 |
-| **Last Updated** | October 21, 2026 at 09:52 PM UTC |
+| **Last Updated** | October 22, 2026 at 07:48 AM UTC |
 
 </div>
 <!-- END_STATS -->
